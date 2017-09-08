@@ -49,7 +49,7 @@
 
 
 	if (isset($data[0]['mbps'])) {
-		$mysqli = new mysqli("127.0.0.1", "root", "chang%", "mynut");
+		$mysqli = new mysqli("127.0.0.1", "root", "xxxxxxxx", "mynut");
 		/* check connection */
 		if (mysqli_connect_errno()) {
 			printf("Connect failed: %s\n", mysqli_connect_errno());

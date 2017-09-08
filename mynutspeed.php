@@ -3,7 +3,7 @@
 	date_default_timezone_set("Asia/Bangkok");
 	$servername = "127.0.0.1";
 	$username = "root";
-	$password = "chang%";
+	$password = "xxxxxxxx";
 	$dbname = "mynut";
 
 	// Create connection
